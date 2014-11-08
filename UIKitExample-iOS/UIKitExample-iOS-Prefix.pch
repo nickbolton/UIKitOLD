@@ -1,0 +1,13 @@
+//
+//  UIKitExample-iOS.pch
+//  UIKit
+//
+//  Created by Nick Bolton on 11/8/14.
+//  Copyright (c) 2014 Pixelbleed LLC. All rights reserved.
+//
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "Bedrock.h"
+#endif

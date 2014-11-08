@@ -1,0 +1,1 @@
+../../../Bedrock/Mac-Core/Categories/NSFileManager+Bedrock.h
